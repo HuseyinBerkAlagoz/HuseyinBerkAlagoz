@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a 2nd year software enginnering student. In the future I want to be a full-stack developer so I am working towards it.
-Languages I know : Java,C+,Javascript 
-Hobbies: PixelArt
+-Languages I know : Java,C+,Javascript 
+-Hobbies: PixelArt
 <!--
 **HuseyinBerkAlagoz/HuseyinBerkAlagoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
